@@ -12,6 +12,7 @@
 
 # ⚙ System Architecture
 
+<img src="https://github.com/2024-Summer-Bootcamp-team-C/.github/blob/main/assets/image/systemArchitecture.png?raw=true" >
 <br/>
 
 # 🛠 Tech Stack
@@ -65,10 +66,12 @@
 
 # 💾 ERD
 
+<img src="https://github.com/2024-Summer-Bootcamp-team-C/.github/blob/main/assets/image/erd.png?raw=true" >
 <br/>
 
 # 📜 Swagger
 
+<img src="https://github.com/2024-Summer-Bootcamp-team-C/.github/blob/main/assets/image/swagger.png?raw=true" >
 <br/>
 
 # 🔍 Detailed Info
