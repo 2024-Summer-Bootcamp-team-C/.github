@@ -272,7 +272,7 @@ DevOps<br>
 </a>
 </td>
 <td width="100" align="yunseo0000">
-<a href="https://github.com/hannaxannah">
+<a href="https://github.com/yunseo0000">
 <img src="https://img.shields.io/badge/yunseo0000-white?style=for-the-badge&logo=github&logoColor=black"/></br>
 </a>
 </td>
