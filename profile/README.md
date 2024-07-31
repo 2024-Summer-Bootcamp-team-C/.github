@@ -156,6 +156,14 @@
 <img src="https://github.com/2024-Summer-Bootcamp-team-C/.github/blob/main/assets/image/swagger.png?raw=true" >
 <br/>
 
+# 🖥 Monitoring
+
+Grafana & Prometheus
+
+**Django** |
+:-----:
+<img src = "https://raw.githubusercontent.com/2024-Summer-Bootcamp-team-C/.github/main/assets/image/monitoring.png" width=90%>|<img src = "모니터링" width=100% >
+
 # ✨ Team Member
 
 <table width="1000">
@@ -223,7 +231,8 @@ Frontend<br>
 Frontend<br>
 </td>
 <td width="150" align="center">
-Frontend<br>
+Backend<br>
+DevOps<br>
 </td>
 <td width="150" align="center">
 Backend<br>
@@ -271,7 +280,7 @@ DevOps<br>
 </a>
 </td>
 <td width="100" align="yunseo0000">
-<a href="https://github.com/yunseo0000">
+<a href="https://github.com/hannaxannah">
 <img src="https://img.shields.io/badge/yunseo0000-white?style=for-the-badge&logo=github&logoColor=black"/></br>
 </a>
 </td>
