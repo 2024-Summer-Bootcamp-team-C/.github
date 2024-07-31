@@ -223,8 +223,7 @@ Frontend<br>
 Frontend<br>
 </td>
 <td width="150" align="center">
-Backend<br>
-DevOps<br>
+Frontend<br>
 </td>
 <td width="150" align="center">
 Backend<br>
