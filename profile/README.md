@@ -164,6 +164,62 @@ Grafana & Prometheus
 :-----:
 <img src = "https://raw.githubusercontent.com/2024-Summer-Bootcamp-team-C/.github/main/assets/image/monitoring.png" width=90%>|<img src = "모니터링" width=100% >
 
+<br/>
+
+# 🧐 How to start
+
+### Clone Repository
+
+```
+git clone --recursive https://github.com/2024-Summer-Bootcamp-team-C/Docker
+```
+
+### secrets.json setting in the backend folder
+
+```
+# secrets.json
+{
+    "SECRET_KEY": "",
+    "DATABASES": {
+        "default": {
+            "ENGINE": "",
+            "NAME": "",
+            "USER": "",
+            "PASSWORD": "",
+            "HOST": "",
+            "PORT": ""
+        }
+    },
+
+    # ElevenLabs
+    "ELEVENLABS_API_KEY": "",
+    "ELEVENLABS_VOICE_ID": "",
+    "ELEVENLABS_MODEL_ID": "",
+
+    # Naver Clova
+    "NAVER_CLIENT_ID": "",
+    "NAVER_CLIENT_SECRET": "",
+
+    # AWS
+    "AWS_ACCESS_KEY_ID": "",
+    "AWS_SECRET_ACCESS_KEY": "",
+    "AWS_BUCKET_NAME": "",
+    "AWS_S3_REGION_NAME": "",
+
+    # OpenAI
+    "OPENAI_API_KEY": ""
+}
+```
+
+### Run Docker
+
+```
+docker-compose build
+docker-compose up
+```
+
+<br/>
+
 # ✨ Team Member
 
 <table width="1000">
