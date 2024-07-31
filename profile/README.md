@@ -103,9 +103,9 @@
 <tr align="center">
   <th width="200">Frontend</th>
   <th width="200">Backend</th>
+  <th width="200">Monitoring</th>
   <th width="200">DevOps</th>
-  <th width="200">DB</th>
-  <th width="200">Others</th>
+  <th width="200">Etc..</th>
 </tr>
 <tr>
   <td align="center">
@@ -120,26 +120,32 @@
     <img src="https://img.shields.io/badge/djangochannels-010101?style=for-the-badge&logo=django&logoColor=white"/></br>
     <img src="https://img.shields.io/badge/celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/></br>
     <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/></br>
-    <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/></br>
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/AMAZON_EC2-FF9900?style=for-the-badge&logo=AMAZONEC2&logoColor=white"/></br>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/></br>
-    <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"/></br>
-    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"/></br>
-    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white"/></br>
-    <img src="https://img.shields.io/badge/Cadvisor-34E0A1?style=for-the-badge&logo=tripadvisor&logoColor=white"/></br>
-    <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/></br>
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySql&logoColor=white"/></br>
+    <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/></br>     <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySql&logoColor=white"/></br>
     <img src="https://img.shields.io/badge/AMAZON_RDS-527FFF?style=for-the-badge&logo=AMAZONRDS&logoColor=white"/></br>
     <img src="https://img.shields.io/badge/AMAZON_S3-569A31?style=for-the-badge&logo=AMAZONS3&logoColor=white"/></br>
+  </td>
+  <td align="center">
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"/></br>
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white"/></br>
+    <img src="https://img.shields.io/badge/Cadvisor-34E0A1?style=for-the-badge&logo=tripadvisor&logoColor=white"/>
+</br>
+    <img src="https://img.shields.io/badge/Node Exporter-5FA04E?style=for-the-badge&logoColor=white"/>
+</br>
+
+  </td>
+  <td align="center">
+       <img src="https://img.shields.io/badge/AMAZON_EC2-FF9900?style=for-the-badge&logo=AMAZONEC2&logoColor=white"/></br>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/></br>
+    <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/></br>
+    <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"/></br>
   </td>
   <td align="center">
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/></br>
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></br>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/></br>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/></br>
+ <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></br>
+
   </td>
 </tr>
 </table>
