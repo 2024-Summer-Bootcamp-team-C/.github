@@ -40,24 +40,8 @@
   <th>React</th>
   <td>컴포넌트 기반으로 코드 재사용성을 높이는 프론트엔드 라이브러리입니다.</td>
 </tr>
-<tr>
-  <th>Node.js(Express.js)</th>
-  <td>TAIROT의 서버로서 각종 요청을 처리하고 DB와 직접 소통합니다.</td>
-</tr>
-<tr>
-  <th>Socket.IO</th>
-  <td>
-    Chat GPT로부터 받은 카드별 해석 및 종합 해석을 프론트엔드에 stream 형태로 전달합니다.</br>
-    버퍼에 한 줄씩 저장한 TTS를 프론트엔드에 전달합니다.
-  </td>
-</tr>
-<tr>
   <th>EC2</th>
   <td>클라우드 컴퓨팅 서비스로 호스팅을 담당합니다.</td>
-</tr>
-<tr>
-  <th>Jenkins</th>
-  <td>CI/CD 자동화를 담당하고 빌드 결과를 실시간으로 슬랙에 전달합니다.</td>
 </tr>
 <tr>
   <th>Docker</th>
@@ -75,21 +59,16 @@
   <th>Grafana</th>
   <td>수집한 Metric 정보를 시각화하여 대시보드를 구성하며 모니터링 중 성능 이슈 발생 시 실시간으로 슬랙에 경고 알람을 전달합니다.</td>
 </tr>
-<tr>
-  <th>Filebeat</th>
-  <td>서버의 로그를 수집하여 Logstash로 전달합니다.</td>
+  <th>react-pageflip</th>
+  <td>React 컴포넌트로, 종이 넘기는 애니메이션을 구현하여 페이지 전환을 시각적으로 표현합니다.</td>
 </tr>
-<tr>
-  <th>Logstash</th>
-  <td>Filebeat로 수집된 데이터를 처리하고 Elasticsearch로 전송하는 역할을 담당합니다.</td>
 </tr>
-<tr>
-  <th>Elasticsearch</th>
-  <td>Logstash로부터 전달 받은 데이터를 저장합니다.</td>
+  <th>highcharts-react-official</th>
+  <td>React 공식 컴포넌트로, 다양한 차트와 그래프를 생성하는 Highcharts 라이브러리를 React 애플리케이션에서 사용할 수 있도록 합니다.</td>
 </tr>
-<tr>
-  <th>Kibana</th>
-  <td>lasticsearch에 저장된 로그 데이터를 분석하고 시각화합니다.</td>
+</tr>
+  <th>react-card-flip</th>
+  <td>React 컴포넌트로, 카드 형태의 UI 요소를 앞뒤로 뒤집는 애니메이션을 쉽게 구현할 수 있습니다.</td>
 </tr>
 </tbody>
 </table>
