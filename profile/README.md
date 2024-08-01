@@ -1,4 +1,4 @@
-# 🫅 We in 전
+# 🤴 We in 전
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=28&text=We%20in%20전&textBg=false&animation=twinkling&reversal=true&fontAlign=50&desc=위인전에%20들어가다&descSize=20&descAlignY=19)
 <br/>
