@@ -159,7 +159,7 @@ Grafana & Prometheus
 git clone --recursive https://github.com/2024-Summer-Bootcamp-team-C/Docker
 ```
 
-### secrets.json setting in the backend folder
+### Set up secrets.json in Backend folder
 
 ```
 # secrets.json
