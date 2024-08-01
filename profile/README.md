@@ -21,59 +21,7 @@
 # ⚙ System Architecture
 
 <img src="https://github.com/2024-Summer-Bootcamp-team-C/.github/blob/main/assets/image/systemArchitecture.png?raw=true" >
-<br/>
 
-# 🔍 Detailed Info
-
-<!-- 수정해야함 자기가 이번 프로젝트에서 중요하게 생각한다. 어필하고 싶다 하는 기술 알려주기-->
-<table width="1000">
-<tbody>
-<tr>
-  <th width="200">Name</th>
-  <th width="800">Description</th>
-</tr>
-<tr>
-  <th>Nginx</th>
-  <td>웹 서버, 프록시 서버 연결 및 SSL/TLS 등을 담당합니다.</td>
-</tr>
-<tr>
-  <th>React</th>
-  <td>컴포넌트 기반으로 코드 재사용성을 높이는 프론트엔드 라이브러리입니다.</td>
-</tr>
-  <th>EC2</th>
-  <td>클라우드 컴퓨팅 서비스로 호스팅을 담당합니다.</td>
-</tr>
-<tr>
-  <th>Docker</th>
-  <td>컨테이너화된 응용 프로그램의 개발, 배포 및 실행을 간소화하고 일관성을 유지합니다.</td>
-</tr>
-<tr>
-  <th>S3</th>
-  <td>78장의 타로 카드 정보(번호, 영문 이름, 한글 이름, 이미지 url)를 저장합니다.</td>
-</tr>
-<tr>
-  <th>Prometheus</th>
-  <td>오픈 소스 기반의 시스템 및 서비스 모니터링 도구로 Metric 정보를 수집하고 저장합니다.</td>
-</tr>
-<tr>
-  <th>Grafana</th>
-  <td>수집한 Metric 정보를 시각화하여 대시보드를 구성하며 모니터링 중 성능 이슈 발생 시 실시간으로 슬랙에 경고 알람을 전달합니다.</td>
-</tr>
-  <th>react-pageflip</th>
-  <td>React 컴포넌트로, 종이 넘기는 애니메이션을 구현하여 페이지 전환을 시각적으로 표현합니다.</td>
-</tr>
-</tr>
-  <th>highcharts-react-official</th>
-  <td>React 공식 컴포넌트로, 다양한 차트와 그래프를 생성하는 Highcharts 라이브러리를 React 애플리케이션에서 사용할 수 있도록 합니다.</td>
-</tr>
-</tr>
-  <th>react-card-flip</th>
-  <td>React 컴포넌트로, 카드 형태의 UI 요소를 앞뒤로 뒤집는 애니메이션을 쉽게 구현할 수 있습니다.</td>
-</tr>
-</tbody>
-</table>
-
-<br/>
 <br/>
 
 # 🛠 Tech Stack
