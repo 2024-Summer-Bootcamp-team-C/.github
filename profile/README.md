@@ -16,7 +16,45 @@
 
 # 📖 DEMO
 
+- 로그인
+  <img src="https://raw.githubusercontent.com/2024-Summer-Bootcamp-team-C/.github/main/assets/gif/login.gif" >
+  <br/>
+- 선택
+<table>
+  <tr>
+    <td>
+      <p>나라별</p>
+      <img src="https://raw.githubusercontent.com/2024-Summer-Bootcamp-team-C/.github/main/assets/gif/country.gif" alt="나라별">
+    </td>
+    <td>
+      <p>분야별</p>
+      <img src="https://raw.githubusercontent.com/2024-Summer-Bootcamp-team-C/.github/main/assets/gif/field.gif" alt="분야별">
+    </td>
+    <td>
+      <p>전체</p>
+      <img src="https://raw.githubusercontent.com/2024-Summer-Bootcamp-team-C/.github/main/assets/gif/all.gif" alt="전체">
+    </td>
+  </tr>
+</table>
 <br/>
+
+- 인물 선택시
+  <img src="https://raw.githubusercontent.com/2024-Summer-Bootcamp-team-C/.github/main/assets/gif/select.gif" alt="전체">
+
+- 더 알아보기
+  <img src="https://raw.githubusercontent.com/2024-Summer-Bootcamp-team-C/.github/main/assets/gif/video.gif" alt="전체">
+  <br/>
+
+- 채팅
+  <img src="https://raw.githubusercontent.com/2024-Summer-Bootcamp-team-C/.github/main/assets/gif/chat.gif" alt="전체">
+  <br/>
+
+- 채팅
+  <img src="https://raw.githubusercontent.com/2024-Summer-Bootcamp-team-C/.github/main/assets/gif/quiz.gif" alt="전체">
+  <br/>
+- 차트
+  <img src="https://raw.githubusercontent.com/2024-Summer-Bootcamp-team-C/.github/main/assets/gif/chart.gif" alt="전체">
+  <br/>
 
 # ⚙ System Architecture
 
