@@ -25,11 +25,11 @@
 <table>
   <tr>
     <td>
-      <p>나라별</p>
+      <p>나라</p>
       <img src="https://raw.githubusercontent.com/2024-Summer-Bootcamp-team-C/.github/main/assets/gif/country.gif" alt="나라별">
     </td>
     <td>
-      <p>분야별</p>
+      <p>분야</p>
       <img src="https://raw.githubusercontent.com/2024-Summer-Bootcamp-team-C/.github/main/assets/gif/field.gif" alt="분야별">
     </td>
     <td>
@@ -41,7 +41,7 @@
 
 <br/>
 
-### 인물 선택시
+### 인물 선택 시
   <img src="https://raw.githubusercontent.com/2024-Summer-Bootcamp-team-C/.github/main/assets/gif/select.gif" alt="전체">
   
   <br/>
