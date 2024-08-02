@@ -49,7 +49,7 @@
   <img src="https://raw.githubusercontent.com/2024-Summer-Bootcamp-team-C/.github/main/assets/gif/chat.gif" alt="전체">
   <br/>
 
-- 채팅
+- 퀴즈
   <img src="https://raw.githubusercontent.com/2024-Summer-Bootcamp-team-C/.github/main/assets/gif/quiz.gif" alt="전체">
   <br/>
 - 차트
