@@ -11,7 +11,7 @@
 
 ### 직접 대화해 알아보세요! 여러분은 재밌게 역사 지식을 습득할 수 있습니다!
 
-[Medium](https://medium.com/@louisgood0625/we-in-%EC%A0%84-gpt%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%97%AD%EC%82%AC-%EC%9D%B8%EB%AC%BC-%ED%95%99%EC%8A%B5-%EC%82%AC%EC%9D%B4%ED%8A%B8-63019f934da4)
+[Medium](https://medium.com/@louisgood0625/63019f934da4)
 <br/>
 
 # 📖 DEMO
