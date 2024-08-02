@@ -16,10 +16,12 @@
 
 # 📖 DEMO
 
-- 로그인
+### 로그인
   <img src="https://raw.githubusercontent.com/2024-Summer-Bootcamp-team-C/.github/main/assets/gif/login.gif" >
+
   <br/>
-- 선택
+  
+### 선택
 <table>
   <tr>
     <td>
@@ -36,24 +38,33 @@
     </td>
   </tr>
 </table>
+
 <br/>
 
-- 인물 선택시
+### 인물 선택시
   <img src="https://raw.githubusercontent.com/2024-Summer-Bootcamp-team-C/.github/main/assets/gif/select.gif" alt="전체">
-
-- 더 알아보기
+  
+  <br/>
+  
+### 더 알아보기
   <img src="https://raw.githubusercontent.com/2024-Summer-Bootcamp-team-C/.github/main/assets/gif/video.gif" alt="전체">
+  
   <br/>
 
-- 채팅
+### 채팅
   <img src="https://raw.githubusercontent.com/2024-Summer-Bootcamp-team-C/.github/main/assets/gif/chat.gif" alt="전체">
+  
   <br/>
 
-- 퀴즈
+### 퀴즈
   <img src="https://raw.githubusercontent.com/2024-Summer-Bootcamp-team-C/.github/main/assets/gif/quiz.gif" alt="전체">
+  
   <br/>
-- 차트
+  
+### 차트
   <img src="https://raw.githubusercontent.com/2024-Summer-Bootcamp-team-C/.github/main/assets/gif/chart.gif" alt="전체">
+
+  <br/>
   <br/>
 
 # ⚙ System Architecture
