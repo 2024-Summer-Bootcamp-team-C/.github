@@ -310,16 +310,17 @@ DevOps<br>
 <a href="https://github.com/jaehyun-0103">
 <img src="https://img.shields.io/badge/jaehyun0103-white?style=for-the-badge&logo=github&logoColor=black"/></br>
 </a>
+/td>
+<td width="100" align="yunseo0000">
+<a href="https://github.com/hannaxannah">
+<img src="https://img.shields.io/badge/yunseo0000-white?style=for-the-badge&logo=github&logoColor=black"/></br>
+</a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/pgc0419">
 <img src="https://img.shields.io/badge/pgc0419-white?style=for-the-badge&logo=github&logoColor=black"/></br>
 </a>
-</td>
-<td width="100" align="yunseo0000">
-<a href="https://github.com/hannaxannah">
-<img src="https://img.shields.io/badge/yunseo0000-white?style=for-the-badge&logo=github&logoColor=black"/></br>
-</a>
+
 </td>
 </tr>
 </tbody>
