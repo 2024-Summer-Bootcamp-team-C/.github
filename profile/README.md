@@ -242,7 +242,7 @@ docker-compose up
 </td>
 <td width="100" align="center">
 <a href="https://github.com/yunseo0000">
-<img src="https://github.com/2024-Summer-Bootcamp-team-C/.github/blob/main/assets/people/yunseo.jpng?raw=true" width="60" height="60">
+<img src="https://github.com/2024-Summer-Bootcamp-team-C/.github/blob/main/assets/people/yunseo.png?raw=true" width="60" height="60">
 </a>
 </td>
 </tr>
