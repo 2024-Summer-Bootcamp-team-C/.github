@@ -236,15 +236,16 @@ docker-compose up
 </a>
 </td>
 <td width="100" align="center">
-<a href="https://github.com/pgc0419">
-<img src="https://github.com/2024-Summer-Bootcamp-team-C/.github/blob/main/assets/people/geunchae.jpeg?raw=true" width="60" height="60">
-</a>
-</td>
-<td width="100" align="center">
 <a href="https://github.com/yunseo0000">
 <img src="https://github.com/2024-Summer-Bootcamp-team-C/.github/blob/main/assets/people/yunseo.png?raw=true" width="60" height="60">
 </a>
 </td>
+<td width="100" align="center">
+<a href="https://github.com/pgc0419">
+<img src="https://github.com/2024-Summer-Bootcamp-team-C/.github/blob/main/assets/people/geunchae.jpeg?raw=true" width="60" height="60">
+</a>
+</td>
+
 </tr>
 <tr>
 <th>Name</th>
@@ -253,8 +254,8 @@ docker-compose up
 <td width="100" align="center">이동현</td>
 <td width="100" align="center">이예나</td>
 <td width="100" align="center">조재현</td>
-<td width="100" align="center">박근채</td>
 <td width="100" align="center">이윤서</td>
+<td width="100" align="center">박근채</td>
 </tr>
 <tr>
 <th>Position</th>
